@@ -1,7 +1,31 @@
-# Aging-Analysis
+# Accounts Payable Aging Analysis for Perfect Marine Limited
+
 Accounts Payable Aging Analysis dashboard built in Power BI using Power Query and DAX to track overdue invoices, vendor exposure, aging buckets, and short-term cash flow requirements.
 
-# Accounts Payable Aging Analysis for Perfect Marine Limited
+---
+## Table of Contents
+
+- [Executive Summary](#executive-summary)  
+- [Introduction](#introduction)  
+- [Business Problem](#business-problem)  
+- [Objectives](#objectives)  
+- [Business Impact](#business-impact)  
+- [Dataset Description](#dataset-description)  
+- [Tools & Technologies](#tools--technologies)  
+- [Methodology](#methodology)  
+- [Data Cleaning & Transformation](#data-cleaning--transformation)  
+- [Assumptions Made During Analysis](#assumptions-made-during-analysis)  
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
+- [Exploratory Data Analysis](#exploratory-data-analysis)  
+- [Findings & Insights](#findings--insights)  
+- [Dashboard Overview](#dashboard-overview)  
+- [Recommendations](#recommendations)  
+- [Limitations](#limitations)  
+- [Future Improvements](#future-improvements)  
+- [Skills Demonstrated](#skills-demonstrated)  
+- [Conclusion](#conclusion)
+
+---
 
 ## Executive Summary
 This project presents an Accounts Payable (AP) Aging Analysis conducted for Perfect Marine using Power BI, Power Query, and Excel.
