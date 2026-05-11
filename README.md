@@ -229,20 +229,19 @@ The organization requires over ₦136M within the next 14 days to meet short-ter
 
 # Findings & Insights
 
-1. High Overdue Exposure - 76.65% of total Accounts Payable was overdue, indicating significant delays in payment processing.
+#### High Overdue Exposure - 76.65% of total Accounts Payable was overdue, indicating significant delays in payment processing.
 
-2. Vendor Concentration Risk - The highest overdue balances were linked to:
+#### Vendor Concentration Ris: The highest overdue balances were linked to:
 - Vertex Oilfield Services – ₦82.71M
 - Alpha Supplies Ltd – ₦78.94M
 - Titan Procurement Ltd – ₦71.23M
-
 This creates operational and supplier dependency risks.
 
-3. Immediate Liquidity Pressure - ₦105.30M is required within the next 7 days to meet urgent payment obligations.
+#### Immediate Liquidity Pressure - ₦105.30M is required within the next 7 days to meet urgent payment obligations.
 
-4. Project-Level Exposure - Projects Orion, Falcon, Atlas, and Horizon all recorded overdue balances.
+#### Project-Level Exposure - Projects Orion, Falcon, Atlas, and Horizon all recorded overdue balances.
 
-5. Operational Risk - Continued payment delays may result in:
+#### Operational Risk - Continued payment delays may result in:
 - Vendor distrust
 - Delayed procurement
 - Service interruptions
@@ -254,7 +253,9 @@ This creates operational and supplier dependency risks.
 
 The Power BI dashboard was designed to provide management with a centralized reporting solution through the following views:
 
-Executive Summary Dashboard
+## Executive Summary Dashboard
+
+![KPIs](KPIs.jpg)
 
 - Total AP
 - Overdue AP
@@ -262,52 +263,60 @@ Executive Summary Dashboard
 - Invoice Counts
 - Average Invoice Age
 
-Vendor Analysis Dashboard
+## Vendor Analysis Dashboard
+
+![Vendor](Vendor.jpg)
 
 - Vendor exposure
 - Overdue balances by vendor
 - Vendor concentration analysis
 
-Project Analysis Dashboard
+## Project Analysis Dashboard
+
+![Invoice](Invoice.jpg)
 
 - Project-level liabilities
 - Invoice distributions by project
+- Provides invoice-level details for operational review and reconciliation.
 
-Aging Analysis Dashboard
+## Aging Analysis Dashboard
+
+![Overdue](Overdue.jpg)
 
 - Aging bucket distribution
 - Overdue trends
 - Invoice aging patterns
 
-Cash Flow Forecast Dashboard
+## Cash Flow Forecast Dashboard
+
+![Cashflow](Cashflow.jpg)
 
 - Upcoming payment obligations
 - Short-term cash requirements
 
-Detailed Invoice Registry
-Provides invoice-level details for operational review and reconciliation.
 
 ---
 
 # Recommendations
 
-1. Prioritize High-Risk Vendor Payments - Immediate attention should be given to vendors with the highest overdue balances to reduce operational disruption risks.
+- Prioritize High-Risk Vendor Payments - Immediate attention should be given to vendors with the highest overdue balances to reduce operational disruption risks.
 
-2. Improve Cash Flow Planning - Management should allocate funds to cover immediate payment obligations and establish rolling cash flow forecasts.
+- Improve Cash Flow Planning - Management should allocate funds to cover immediate payment obligations and establish rolling cash flow forecasts.
 
-3. Strengthen Payment Monitoring - A structured AP monitoring process should be implemented to track due dates proactively.
+- Strengthen Payment Monitoring - A structured AP monitoring process should be implemented to track due dates proactively.
 
-4. Review Payment Processes - The company should evaluate approval workflows and payment cycles to identify operational bottlenecks.
+- Review Payment Processes - The company should evaluate approval workflows and payment cycles to identify operational bottlenecks.
 
-5. Negotiate Vendor Payment Terms - Management should negotiate revised payment arrangements with high-exposure vendors where necessary.
+- Negotiate Vendor Payment Terms - Management should negotiate revised payment arrangements with high-exposure vendors where necessary.
 
-6. Automate Reporting - The dashboard should be integrated into regular financial reporting for continuous monitoring.
+- Automate Reporting - The dashboard should be integrated into regular financial reporting for continuous monitoring.
 
-7. Conduct Periodic Aging Reviews - Monthly AP aging reviews should be conducted to identify risks early.
+- Conduct Periodic Aging Reviews - Monthly AP aging reviews should be conducted to identify risks early.
 
 ---
 
 # Limitations
+
 The analysis has the following limitations:
 
 - The report represents a static snapshot as of April 27, 2026
@@ -318,7 +327,9 @@ The analysis has the following limitations:
 ---
 
 # Future Improvements
+
 Potential future enhancements include:
+
 - ERP system integration
 - Automated dashboard refresh scheduling
 - Predictive cash flow forecasting
@@ -328,6 +339,7 @@ Potential future enhancements include:
 ---
 
 # Skills Demonstrated
+
 This project demonstrates the following skills:
 
 - Data Cleaning
